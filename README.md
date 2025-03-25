@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu me chamo André e atualmente estou estudando Python 🐍
+Olá, eu me chamo André e atualmente estou desenvolvendo em Python 🐍
 
 
 ## 🌐 Socials:
