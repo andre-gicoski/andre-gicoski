@@ -1,7 +1,3 @@
-# 💫 About Me:
-Olá, eu me chamo André e atualmente estou desenvolvendo em Python 🐍
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-gicoski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andregicoskisz@gmail.com) 
 
