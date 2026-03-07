@@ -4,9 +4,8 @@
 💻 Tech Stack
 Languages
 <p> <img src="https://skillicons.dev/icons?i=python,js,ts" /> </p>
-More
+Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=flask" /> </p>
 Databases
 <p> <img src="https://skillicons.dev/icons?i=mysql,redis" /> </p>
 Tools & Infrastructure
