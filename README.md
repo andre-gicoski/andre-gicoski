@@ -3,7 +3,7 @@
 
 💻 Tech Stack
 Languages
-<p> <img src="https://skillicons.dev/icons?i=python,js,ts,c" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,js,ts" /> </p>
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> </p>
 Backend
@@ -11,4 +11,4 @@ Backend
 Databases
 <p> <img src="https://skillicons.dev/icons?i=mysql,redis" /> </p>
 Tools & Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=docker,git,vscode" /> </p>
